@@ -1,10 +1,6 @@
-# Hi there! Welcome to my Profile!
-
-- I’m currently learning JavaScript
-- Pronouns: He/They
-
-
-
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/GhostMander/GhostMander/main/Images/Fire2.png" alt="GhostMander">
+</p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GhostMander&show_icons=true&theme=dracula" alt="GhostMander's Language Usages">
 </p>
